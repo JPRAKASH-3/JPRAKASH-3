@@ -1,9 +1,6 @@
 # Hi, I'm Jayaprakash V 👋
 
-### Full Stack Developer | React.js · Next.js · Node.js · Python · REST APIs · PostgreSQL
-
-I'm a Full Stack Developer and B.Tech Information Technology graduate focused on building responsive, scalable, and user-friendly web applications.
-
+I'm a Full Stack Developer focused on building responsive and scalable web applications with React.js, Next.js, Node.js, Python, REST APIs, and PostgreSQL.
 - 🔭 Currently working on full-stack web applications
 - 🌱 Improving my skills in Python, backend development, APIs, and system design
 - 💻 Experienced with React.js, Next.js, Node.js, Express.js, Python, SQL, and PostgreSQL
