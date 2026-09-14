@@ -75,12 +75,9 @@ Personal developer portfolio showcasing my projects, skills, and development exp
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPRAKASH-3&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPRAKASH-3&layout=compact&theme=github_dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPRAKASH-3&show_icons=true&hide_border=true&rank_icon=github)
 ---
 
 ## 🤝 Connect With Me
